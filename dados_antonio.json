@@ -1,0 +1,101 @@
+{
+    
+  "events": [
+    {
+      "media": {
+        "url": "https://th.bing.com/th/id/OIP.RTD49z5s901SJPt1__hYXQHaHa?pid=ImgDet&rs=1",
+        "caption": "",
+        "credit": "Cervejária capapreta"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "1"
+      },
+      "text": {
+        "headline": "primeiro projeto como gestor de tráfego e social media",
+        "text": "nesse trabalho fiquei responsavel por gerenciar o intagram da marca além de gerir e criar campanhas publicitárias. oque me ajudou a aprimorar e criar uma base para as minhas abilidades na área"
+      }
+    },
+        
+    {
+      "media": {
+        "url": "https://th.bing.com/th/id/OIP.0RjPIR0xP8WN_KBB1OCAPQHaHa?pid=ImgDet&rs=1",
+        "caption": "",
+        "credit": "puhuk"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "7"
+      },
+      "text": {
+        "headline": "puhok",
+        "text": "novamente, geri todo o trafego da empresa por meio de campanhas e administrei suas midias sociais"
+      }
+    },
+
+    {
+      "media": {
+        "url": "https://i.postimg.cc/RVGMJTj8/Whats-App-Image-2023-10-01-at-8-43-17-PM.jpg",
+        "caption": "",
+        "credit": "portaria 1959"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "5"
+      },
+      "text": {
+        "headline": "portaria 1959 ",
+        "text": "assim como nos outros projetos geri todo o trafegi e midias sociais da empresa"
+      }
+    },
+    
+    {
+      "media": {
+        "url": "https://i.postimg.cc/pT8S6Tdw/1a-fase.jpg",
+        "caption": "",
+        "credit": "escola do sebrae"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "4"
+      },
+      "text": {
+        "headline": "participação no desafio jovem empreemdedor 1a fase",
+        "text": "desc..."
+      }
+    },
+    
+    {
+      "media": {
+        "url": "https://i.postimg.cc/Fz4654d7/2a-fase.jpg",
+        "caption": "",
+        "credit": "escola do sebrae"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "4"
+      },
+      "text": {
+        "headline": "participação no desafio jovem empreemdedor 2a fase",
+        "text": "desc..."
+      }
+    },
+    
+    {
+      "media": {
+        "url": "https://i.postimg.cc/RFrxwktG/IMG-1035.jpg",
+        "caption": "",
+        "credit": "escola do sebrae"
+      },
+      "start_date": {
+        "year": "2022",
+        "month": "6"
+      },
+      "text": {
+        "headline": "vencedor do chalenge da escola do sebrae",
+        "text": "desc..."
+      }
+    }
+    
+  ]
+}
