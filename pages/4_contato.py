@@ -2,7 +2,7 @@ import streamlit as st
 
 
 st.set_page_config(
-    page_title="Lincoln - contato",
+    page_title="Antonio - contato",
     page_icon=""
 )
 
