@@ -34,4 +34,4 @@ st.subheader("Antonio de Souza Moreno")
 texto = get_string(idioma, "texto")
 st.write(texto)
 
-st.link_button("code", "https://github.com/ILSGI/portifolio_antonio/tree/main")
+st.link_button("code", "https://github.com/ILSGI/portifoilio_antonio/tree/main")
