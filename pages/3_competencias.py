@@ -1,5 +1,5 @@
 import streamlit as st 
-import pandas as pf
+import pandas as pd
 
 st.set_page_config(
     page_title="Antonio - competencias",
