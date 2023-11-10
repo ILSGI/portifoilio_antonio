@@ -4,7 +4,7 @@ _ = gettext.gettext
 
 st.set_page_config(
     page_title="Antonio - competencias",
-    page_icon="🏳️‍🌈"
+    page_icon=""
 )
 
 idioma = st.sidebar.selectbox("escolha o idioma", ['pt', 'en', 'es'])
