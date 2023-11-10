@@ -5,6 +5,9 @@ st.set_page_config(
     page_title="Antonio - sobre mim",
     page_icon="🏳"
 )
+
+idioma = st.sidebar.selectbox("escolha o idioma", ['pt', 'en', 'es'])
+
 strings = {
     "en": {
         "titulo": "About me",
