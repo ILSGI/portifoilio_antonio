@@ -1,0 +1,100 @@
+{
+  "events": [
+    {
+      "media": {
+        "url": "https://th.bing.com/th/id/OIP.RTD49z5s901SJPt1__hYXQHaHa?pid=ImgDet&rs=1",
+        "caption": "",
+        "credit": "cervejaria Capapreta"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "1"
+      },
+      "text": {
+        "headline": "first project as traffic and social media manager",
+        "text": "In this role, I was responsible for managing the brand's Instagram and creating and managing advertising campaigns. This experience helped me enhance and build a foundation for my skills in the field."
+      }
+    },
+        
+    {
+      "media": {
+        "url": "https://th.bing.com/th/id/OIP.0RjPIR0xP8WN_KBB1OCAPQHaHa?pid=ImgDet&rs=1",
+        "caption": "",
+        "credit": "puhuk"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "7"
+      },
+      "text": {
+        "headline": "puhok",
+        "text": "Once again, I managed all the company's traffic through campaigns and administered its social media."
+      }
+    },
+
+    {
+      "media": {
+        "url": "https://i.postimg.cc/RVGMJTj8/Whats-App-Image-2023-10-01-at-8-43-17-PM.jpg",
+        "caption": "",
+        "credit": "Portaria 1959"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "5"
+      },
+      "text": {
+        "headline": "Portaria 1959",
+        "text": "Just like in the other projects, I managed all the traffic and social media for the company."
+      }
+    },
+    
+    {
+      "media": {
+        "url": "https://i.postimg.cc/pT8S6Tdw/1a-fase.jpg",
+        "caption": "",
+        "credit": "Sebrae School"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "4"
+      },
+      "text": {
+        "headline": "Participation in the Young Entrepreneur Challenge 1st phase",
+        "text": "The Young Entrepreneur Challenge is a virtual game that simulates the day-to-day operations of a company diving into the universe of Creative Economy. The challenge involves conceptualizing a new animated short film that celebrates the company's cultural identity.
+"
+      }
+    },
+    
+    {
+      "media": {
+        "url": "https://i.postimg.cc/Fz4654d7/2a-fase.jpg",
+        "caption": "",
+        "credit": "Sebrae School"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "4"
+      },
+      "text": {
+        "headline": "Participation in the Young Entrepreneur Challenge 2nd phase",
+        "text": ""
+      }
+    },
+    
+    {
+      "media": {
+        "url": "https://i.postimg.cc/RFrxwktG/IMG-1035.jpg",
+        "caption": "",
+        "credit": "Sebrae School"
+      },
+      "start_date": {
+        "year": "2022",
+        "month": "6"
+      },
+      "text": {
+        "headline": "Winner of the Sebrae School Challenge",
+        "text": "It is a business challenge where students from different years of high school will seek solutions to real company problems by applying business concepts learned in school."
+      }
+    }
+  ]
+}
