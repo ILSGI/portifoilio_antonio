@@ -3,7 +3,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Antonio - sobre mim",
-    page_icon=""
+    page_icon="🏳️‍🌈"
 )
 
 idioma = st.sidebar.selectbox("escolha o idioma", ['pt', 'en', 'es'])
