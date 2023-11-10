@@ -33,3 +33,5 @@ st.subheader("📞: +55 (31) 984717322")
 st.subheader("✉️: moreno1707@gmail.com")
 st.title(midias_sociais)
 st.subheader("📷: @as.morenoo")
+
+st.text("code: https://github.com/ILSGI/portifoilio_antonio/tree/main")
