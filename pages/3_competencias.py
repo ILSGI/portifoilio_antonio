@@ -1,6 +1,5 @@
 import streamlit as st 
-import gettext
-_ = gettext.gettext
+import pandas as pf
 
 st.set_page_config(
     page_title="Antonio - competencias",
