@@ -1,0 +1,99 @@
+{
+ events": [
+    {
+      "media": {
+        "url": "https://th.bing.com/th/id/OIP.RTD49z5s901SJPt1__hYXQHaHa?pid=ImgDet&rs=1",
+        "caption": "",
+        "credit": "Cervaria Capapreta"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "1"
+      },
+      "text": {
+        "headline": "primer proyecto como gerente de tráfico y redes sociales",
+        "text": "En este trabajo, fui responsable de gestionar la cuenta de Instagram de la marca y crear y gestionar campañas publicitarias. Esto me ayudó a perfeccionar y establecer una base para mis habilidades en el área."
+      }
+    },
+        
+    {
+      "media": {
+        "url": "https://th.bing.com/th/id/OIP.0RjPIR0xP8WN_KBB1OCAPQHaHa?pid=ImgDet&rs=1",
+        "caption": "",
+        "credit": "puhuk"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "7"
+      },
+      "text": {
+        "headline": "puhok",
+        "text": "Nuevamente, gestioné todo el tráfico de la empresa mediante campañas y administré sus redes sociales."
+      }
+    },
+
+    {
+      "media": {
+        "url": "https://i.postimg.cc/RVGMJTj8/Whats-App-Image-2023-10-01-at-8-43-17-PM.jpg",
+        "caption": "",
+        "credit": "Portaria 1959"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "5"
+      },
+      "text": {
+        "headline": "Portaria 1959",
+        "text": "Al igual que en los otros proyectos, gestioné todo el tráfico y las redes sociales de la empresa."
+      }
+    },
+    
+    {
+      "media": {
+        "url": "https://i.postimg.cc/pT8S6Tdw/1a-fase.jpg",
+        "caption": "",
+        "credit": "Escuela del Sebrae"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "4"
+      },
+      "text": {
+        "headline": "Participación en el Desafío Joven Emprendedor 1ª fase",
+        "text": "El Desafío Joven Emprendedor es un juego virtual que simula el día a día de una empresa que se sumerge en el universo de la Economía Creativa. El desafío consiste en conceptualizar un nuevo cortometraje de animación que destaque la identidad cultural de la empresa."
+      }
+    },
+    
+    {
+      "media": {
+        "url": "https://i.postimg.cc/Fz4654d7/2a-fase.jpg",
+        "caption": "",
+        "credit": "Escuela del Sebrae"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "4"
+      },
+      "text": {
+        "headline": "Participación en el Desafío Joven Emprendedor 2ª fase",
+        "text": "desc..."
+      }
+    },
+    
+    {
+      "media": {
+        "url": "https://i.postimg.cc/RFrxwktG/IMG-1035.jpg",
+        "caption": "",
+        "credit": "Escuela del Sebrae"
+      },
+      "start_date": {
+        "year": "2022",
+        "month": "6"
+      },
+      "text": {
+        "headline": "Ganador del desafío de la Escuela del Sebrae",
+        "text": "Se trata de un desafío empresarial en el que estudiantes de diferentes años de la escuela secundaria buscarán soluciones a problemas reales de empresas aplicando conceptos de negocios aprendidos en la escuela."
+      }
+    }
+  ]
+}
