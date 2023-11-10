@@ -13,21 +13,21 @@ strings = {
     "en": {
         "titulo": "Competencies",
         "gestaodetrafego": "Through various projects and studies, I have become highly capable and efficient in managing a company's traffic.",
-        "gestaodemidias sociais": "In traffic management, I was able to create a strong brand image, attracting respect and credibility through social media.",
+        "gestaodemidiassociais": "In traffic management, I was able to create a strong brand image, attracting respect and credibility through social media.",
         "ingles": "english",
         "espanhol": "Spanish"
     },
     "pt": {
         "titulo": "Competências",
         "gestaodetrafego": "por diversos projetos e estudos, me tornei muito capaz e eficiente na gestão de trafego de um empresa.",
-        "gestaodemidias sociais": "justo a gestão de trafego, consegui gerar uma boa visão da marca atraindo respeito e credibilidade por meio das redes sociais",
+        "gestaodemidiassociais": "justo a gestão de trafego, consegui gerar uma boa visão da marca atraindo respeito e credibilidade por meio das redes sociais",
         "ingles": "inglês",
         "espanhol": "espanhol"
     },
     "es": {
         "titulo": "Competencias",
         "gestaodetrafego": "Through various projects and studies, I have become highly capable and efficient in managing a company's traffic. This graph represents the growth of a company after starting to work with me.",
-        "gestaodemidias sociais": "En la gestión del tráfico, logré crear una sólida imagen de marca, atrayendo respeto y credibilidad a través de las redes sociales.",
+        "gestaodemidiassociais": "En la gestión del tráfico, logré crear una sólida imagen de marca, atrayendo respeto y credibilidad a través de las redes sociales.",
         "ingles": "Inglés",
         "espanhol": "Español"
     }
@@ -41,11 +41,11 @@ st.title(titulo)
 
 with st.expander("gestão de trafego"):
     gestaodetrafego = get_string(idioma, "gestaodetrafego")
-    st.write(gestao de trafego)
-    
-with st.expander("gestão de midias sociais"):
-    gestao de trafego = get_string(idioma, "gestaodetrafego")
     st.write(gestaodetrafego)
+    
+with st.expander("gestao de midias sociais"):
+    gestaodemidiassociais = get_string(idioma, "gestaodemidiassociais")
+    st.write(gestaodemidiassociais)
     
 st.text("Inglés")
 Inglés_df_data = [["total","B1"],["comprensión lectora","B2"],["comprensión auditiva","B2"],["expresión escrita","B1"],["expresión oral","B1"]]
