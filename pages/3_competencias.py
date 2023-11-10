@@ -12,22 +12,22 @@ idioma = st.sidebar.selectbox("escolha o idioma", ['pt', 'en', 'es'])
 strings = {
     "en": {
         "titulo": "Competencies",
-        "gestao de trafego": "Through various projects and studies, I have become highly capable and efficient in managing a company's traffic.",
-        "gestao de midias sociais": "In traffic management, I was able to create a strong brand image, attracting respect and credibility through social media.",
+        "gestaodetrafego": "Through various projects and studies, I have become highly capable and efficient in managing a company's traffic.",
+        "gestaodemidias sociais": "In traffic management, I was able to create a strong brand image, attracting respect and credibility through social media.",
         "ingles": "english",
         "espanhol": "Spanish"
     },
     "pt": {
         "titulo": "Competências",
-        "gestao de trafego": "por diversos projetos e estudos, me tornei muito capaz e eficiente na gestão de trafego de um empresa.",
-        "gestao de midias sociais": "justo a gestão de trafego, consegui gerar uma boa visão da marca atraindo respeito e credibilidade por meio das redes sociais",
+        "gestaodetrafego": "por diversos projetos e estudos, me tornei muito capaz e eficiente na gestão de trafego de um empresa.",
+        "gestaodemidias sociais": "justo a gestão de trafego, consegui gerar uma boa visão da marca atraindo respeito e credibilidade por meio das redes sociais",
         "ingles": "inglês",
         "espanhol": "espanhol"
     },
     "es": {
         "titulo": "Competencias",
-        "gestao de trafego": "Through various projects and studies, I have become highly capable and efficient in managing a company's traffic. This graph represents the growth of a company after starting to work with me.",
-        "gestao de midias sociais": "En la gestión del tráfico, logré crear una sólida imagen de marca, atrayendo respeto y credibilidad a través de las redes sociales.",
+        "gestaodetrafego": "Through various projects and studies, I have become highly capable and efficient in managing a company's traffic. This graph represents the growth of a company after starting to work with me.",
+        "gestaodemidias sociais": "En la gestión del tráfico, logré crear una sólida imagen de marca, atrayendo respeto y credibilidad a través de las redes sociales.",
         "ingles": "Inglés",
         "espanhol": "Español"
     }
@@ -40,12 +40,12 @@ titulo = get_string(idioma,"titulo")
 st.title(titulo)
 
 with st.expander("gestão de trafego"):
-    gestao de trafego = get_string(idioma, "gestao de trafego")
+    gestaodetrafego = get_string(idioma, "gestaodetrafego")
     st.write(gestao de trafego)
     
 with st.expander("gestão de midias sociais"):
-    gestao de trafego = get_string(idioma, "gestao de trafego")
-    st.write(gestao de trafego)
+    gestao de trafego = get_string(idioma, "gestaodetrafego")
+    st.write(gestaodetrafego)
     
 st.text("Inglés")
 Inglés_df_data = [["total","B1"],["comprensión lectora","B2"],["comprensión auditiva","B2"],["expresión escrita","B1"],["expresión oral","B1"]]
