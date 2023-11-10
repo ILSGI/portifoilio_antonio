@@ -47,7 +47,7 @@ with st.expander("gestao de midias sociais"):
     st.write(gestaodemidiassociais)
     
 st.text("Inglés")
-Inglés_df_data = [["total","B1"],["comprensión lectora","B2"],["comprensión auditiva","B2"],["expresión escrita","B1"],["expresión oral","B1"]]
+Inglés_df_data = [["total","A2"],["comprensión lectora","B2"],["comprensión auditiva","B2"],["expresión escrita","A2"],["expresión oral","B1"]]
 def createDataframe(Inglés_df_data: [[int]]) -> pd.DataFrame:
     column_names = ['Inglés', 'nivel de idioma']
     sla = pd.DataFrame(Inglés_df_data, columns=column_names)
